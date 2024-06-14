@@ -18,7 +18,7 @@ Abra o terminal (ou prompt de comando no Windows) e instale a biblioteca PyAutoG
 
 ## utilize o código deste repositório. 
 
-**Caso não saiba utilizar os comandos para encontrar a pasta do script através do CMD, recomendo salvar ele no caminho padrão do CMD que é:** *C:\Users\AKI_É_O_SEU_USUARIO>*
+**Caso não saiba utilizar os comandos para encontrar a pasta do script através do CMD, recomendo salvar ele no caminho padrão do CMD que é:** *C:\Users\AKI_É_O_SEU_USUARIO>* o meu por exemplo é: C:\Users\Vieira>
 
 # Executando o script
 
