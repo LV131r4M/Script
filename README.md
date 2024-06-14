@@ -46,4 +46,5 @@ No CMD, execute o script com o comando abaixo.
 ### OBS2: 
 *Eu executava o comando diretamente pelo VSCODE, para fazer o mesmo, é só abrir o VSCode, Terminal>New Terminal> Assim que abrir, basta digitar o comando para executar o script. *
 
-![image](https://github.com/LV131r4M/script/assets/75260453/b76faf6d-fa26-4bb3-a7f4-b37d0846a196)
+![image](https://github.com/LV131r4M/script/assets/75260453/8622ebfe-ac1a-4901-a4f7-277a901817a3)
+
