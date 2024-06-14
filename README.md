@@ -39,7 +39,7 @@ No CMD, execute o script com o comando abaixo.
 **O script para automaticamente após 3h rodando initerruptamente**
 **Você pode cancelar o script apertando CTRL + C**
 
-###OBS: deixe o script em 2° plano, e o jogo em 1° plano, para que ele foque apenas no jogo e saia clicando em nada do seu pc. 
+### OBS: deixe o script em 2° plano, e o jogo em 1° plano, para que ele foque apenas no jogo e saia clicando em nada do seu pc. 
 
 
 
