@@ -26,7 +26,7 @@ Abra o terminal (ou prompt de comando no Windows) e instale a biblioteca PyAutoG
 
 Pressione Win + R, e digite cmd
 
-*C:\Users\AKI_VC_COLOCA_O_SEU_USUARIO>*
+``` *C:\Users\AKI_VC_COLOCA_O_SEU_USUARIO>* ```
 
 ## Execute o Script
 
