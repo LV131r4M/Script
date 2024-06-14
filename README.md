@@ -13,7 +13,7 @@ Se você ainda não tem o Python instalado, baixe e instale a versão mais recen
 
 Abra o terminal (ou prompt de comando no Windows) e instale a biblioteca PyAutoGUI usando o pip:
 
-```sh pip install pyautogui ```sh
+```sh pip install pyautogui 
 
 
 ## utilize o código deste repositório. **Caso não saiba utilizar os comandos para encontrar a pasta do script através do CMD, recomendo salvar ele no caminho padrão do CMD que é: *C:\Users\AKI_É_O_SEU_USUARIO>*
@@ -28,7 +28,7 @@ Pressione Win + R, e digite cmd
 
 ## Execute o Script
 
-```sh python auto_script.py ```sh
+```sh python auto_script.py 
 
 
 
