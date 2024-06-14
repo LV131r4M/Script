@@ -18,7 +18,7 @@ Abra o terminal (ou prompt de comando no Windows) e instale a biblioteca PyAutoG
 
 ## utilize o código deste repositório. 
 
-**Caso não saiba utilizar os comandos para encontrar a pasta do script através do CMD, recomendo salvar ele no caminho padrão do CMD que é:** *C:\Users\AKI_É_O_SEU_USUARIO>* o meu por exemplo é: C:\Users\Vieira>
+**Caso não saiba utilizar os comandos para encontrar a pasta do script através do CMD, recomendo salvar ele no caminho padrão do CMD que é:** *C:\Users\AKI_É_O_SEU_USUARIO>* o meu por exemplo é: C:\Users\luanv>
 
 # Executando o script
 
@@ -32,16 +32,18 @@ Pressione Win + R, e digite cmd
 
 No CMD, execute o script com o comando abaixo.
 
- ``` python auto_script.py ```
+ ``` python teste.py ```
 
 ### Parando o Script
 
 **O script para automaticamente após 3h rodando initerruptamente**
 **Você pode cancelar o script apertando CTRL + C**
 
-### OBS: deixe o script em 2° plano, e o jogo em 1° plano, para que ele foque apenas no jogo e saia clicando em nada do seu pc. 
+### OBS: deixe o script em 2° plano, e o jogo em 1° plano, para que ele foque apenas no jogo e saia clicando em nada do seu pc.
 
 
 
+### OBS2: 
+*Eu executava o comando diretamente pelo VSCODE, para fazer o mesmo, é só abrir o VSCode, Terminal>New Terminal> Assim que abrir, basta digitar o comando para executar o script. *
 
-
+![image](https://github.com/LV131r4M/script/assets/75260453/b76faf6d-fa26-4bb3-a7f4-b37d0846a196)
