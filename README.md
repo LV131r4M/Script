@@ -1,4 +1,4 @@
-# script
+# Script simula teclas W A S D BACKSPACE e MOUSE
 
 
 Este repositório contém um script em Python que utiliza a biblioteca PyAutoGUI para automatizar ações de teclado e mouse. O script realiza ações aleatórias como pressionar teclas específicas ou clicar em posições aleatórias do mouse por um período de 3 horas.
@@ -44,7 +44,8 @@ No CMD, execute o script com o comando abaixo.
 
 
 ### OBS2: 
-*Eu executava o comando diretamente pelo VSCODE, para fazer o mesmo, é só abrir o VSCode, Terminal>New Terminal> Assim que abrir, basta digitar o comando para executar o script. *
+
+*Eu executava o comando diretamente pelo VSCODE, para fazer o mesmo, é só abrir o VSCode, Terminal>New Terminal> Assim que abrir, basta digitar o comando para executar o script.*
 
 ![image](https://github.com/LV131r4M/script/assets/75260453/2e2b8cc6-9f9a-43bc-b26f-cc4e1209096b)
 
