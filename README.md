@@ -16,7 +16,9 @@ Abra o terminal (ou prompt de comando no Windows) e instale a biblioteca PyAutoG
 ``` pip install pyautogui ```
 
 
-## utilize o código deste repositório. **Caso não saiba utilizar os comandos para encontrar a pasta do script através do CMD, recomendo salvar ele no caminho padrão do CMD que é: *C:\Users\AKI_É_O_SEU_USUARIO>*
+## utilize o código deste repositório. 
+
+**Caso não saiba utilizar os comandos para encontrar a pasta do script através do CMD, recomendo salvar ele no caminho padrão do CMD que é:** *C:\Users\AKI_É_O_SEU_USUARIO>*
 
 # Executando o script
 
@@ -28,9 +30,16 @@ Pressione Win + R, e digite cmd
 
 ## Execute o Script
 
+No CMD, execute o script com o comando abaixo.
+
  ``` python auto_script.py ```
 
+### Parando o Script
 
+**O script para automaticamente após 3h rodando initerruptamente**
+**Você pode cancelar o script apertando CTRL + C**
+
+###OBS: deixe o script em 2° plano, e o jogo em 1° plano, para que ele foque apenas no jogo e saia clicando em nada do seu pc. 
 
 
 
