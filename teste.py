@@ -44,7 +44,7 @@ def perform_random_action():
 def main():
     start_time = time.time()
     last_time_check = start_time
-    duration = 3 * 3600  # 3 horas em segundos
+    duration = 4 * 3600  # 4 horas em segundos
 
     while time.time() - start_time < duration:
         perform_random_action()
