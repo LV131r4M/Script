@@ -1,5 +1,6 @@
 # Script simula as teclas W A S D, BACKSPACE e MOUSE
 
+# SCRIPT ATUALIZADO [AQUI](https://github.com/LV131r4M/Farm-Lego-Festival-e-Rocket-Racing), AGORA COM EXECUTÁVEL E CASO PREFIRAM, FOI ADICIONADO FARM NO MODO ROCKET RACING
 
 Este repositório contém um script em Python que utiliza a biblioteca PyAutoGUI para automatizar ações de teclado e mouse. O script realiza ações aleatórias como pressionar teclas específicas ou clicar em posições aleatórias do mouse por um período de 3 horas.
 
